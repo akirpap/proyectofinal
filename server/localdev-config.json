@@ -1,0 +1,14 @@
+{
+  "cos_original_bucket": "documentofinal",
+  "cos_normalized_bucket": "documentofinal",
+  "cos_api_key": "wS4tUz0u2Skzl2RTQVqtO99GaSvSDs-PKvMeQpIRN3nc",
+  "cos_endpoint": "s3.us-south.cloud-object-storage.appdomain.cloud",
+  "iam_apikey_description": "Auto-generated for key 2303792a-9d7f-48a3-97f3-6f5a5094ca9b",
+  "iam_apikey_name": "Documentosfinales",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/664ee75ae2c34cf196c88f56bed2984a::serviceid:ServiceId-52898470-7f38-485c-8c77-d31c34d786ed",
+  "cos_service_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/7c3c53c1245d449bb3791b9611571ce3:a51c5e3f-01a9-40d7-9a68-267e0cf48a0e::",
+  "access_key_id": "2303792a9d7f48a397f36f5a5094ca9b",
+  "secret_access_key": "2ae6cebb23996c82899343fa7b687650446f2f10a88f0a0f"
+}
+
